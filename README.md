@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravghuge737" target="blank"><img src="https://img.shields.io/twitter/follow/gauravghuge737?logo=twitter&style=for-the-badge" alt="gauravghuge737" /></a> </p>
 
-- 🔭 I’m currently working a internship at Arohi Softwares as a full stack developer [Employee management](https://github.com/gauravghuge7/emplyeemanagement1)
+- 🔭 I’m worked at Arohi Softwares as a full stack developer Intern [Employee management](https://github.com/gauravghuge7/emplyeemanagement1)
 
 - 📫 How to reach me **gauravghuge737@gmail.com**
 
