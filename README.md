@@ -9,7 +9,7 @@
 
 - 🔭 I’m worked at Arohi Softwares as a full stack developer Intern [Employee management](https://github.com/gauravghuge7/emplyeemanagement1)
 
-- 📫 How to reach me **gauravghuge737@gmail.com**
+- 📫 My Email **gauravghuge737@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
